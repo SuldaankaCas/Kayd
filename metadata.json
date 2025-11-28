@@ -1,0 +1,5 @@
+{
+  "name": "ClassSync - Group Study Board",
+  "description": "A collaborative task management dashboard for study groups. Use Gemini AI to automatically parse assignment details from photos or rough notes.",
+  "requestFramePermissions": []
+}
